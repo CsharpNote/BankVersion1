@@ -14,6 +14,7 @@ We have to fill out the class definition. The requirements to the bank account c
 </ul>
 
 Given these requirement, your tasks are:
+
 1. Fill out the BankAccount definition, such that all requirements are fulfilled. This includes definition of instance fields, constructors and methods.
 
 2. Make some test code that tests your BankAccount class. That is, you should create a BankAccount object, call the withdraw/deposit methods, and use the available methods to check that the object behaves as expected with regards to the value of the balance.
